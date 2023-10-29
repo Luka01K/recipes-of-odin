@@ -1,0 +1,15 @@
+h1 {
+    color: teal;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+
+
+.recipe {
+    font-weight: 800;
+    text-align: center;
+    color: cadetblue;
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
