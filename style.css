@@ -2,9 +2,12 @@ h1 {
     color: teal;
     text-align: center;
     text-decoration-line: underline;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    width: 500px;
+    background: tan;
 }
-
-
 
 .recipe {
     font-weight: 800;
@@ -12,4 +15,19 @@ h1 {
     color: cadetblue;
     background-color: bisque;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    border: 3px cornflowerblue;
+    margin: 10px;
+
+}
+
+.recipe {
+    border: 3px black;
+    padding: 30px;
+    margin: auto;
+    margin-top: 20px;
+    width: 200px;
+    height: auto;
 }
